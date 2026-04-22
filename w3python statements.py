@@ -1,0 +1,1 @@
+print("i'm going"); print(" to work"); print("in Singapore")
